@@ -28,6 +28,9 @@ public class DetailActivity extends AppCompatActivity {
 
         return super.onOptionsItemSelected(item);
     }
+    private void createShareIntent(){
+
+    }
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
